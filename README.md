@@ -4,3 +4,7 @@ ASP .Net web application. Users create accounts and can purchase stocks and cryp
 #List of Services
 ![pic1](https://github.com/benwallace5/PaperTradingASPNetWebApp/blob/main/Screenshots/Services.JPG)
 
+#Simple GUI showcasing functionality
+![pic1](https://github.com/benwallace5/PaperTradingASPNetWebApp/blob/main/Screenshots/login_page.JPG)
+![pic1](https://github.com/benwallace5/PaperTradingASPNetWebApp/blob/main/Screenshots/member_page.JPG)
+
