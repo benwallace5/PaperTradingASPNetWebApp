@@ -1,0 +1,7 @@
+C:\Users\Benpc\source\repos\Project5\LoginService\bin\LoginService.dll.config
+C:\Users\Benpc\source\repos\Project5\LoginService\bin\LoginService.dll
+C:\Users\Benpc\source\repos\Project5\LoginService\bin\LoginService.pdb
+C:\Users\Benpc\source\repos\Project5\LoginService\obj\Debug\LoginService.csproj.AssemblyReference.cache
+C:\Users\Benpc\source\repos\Project5\LoginService\obj\Debug\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\Benpc\source\repos\Project5\LoginService\obj\Debug\LoginService.dll
+C:\Users\Benpc\source\repos\Project5\LoginService\obj\Debug\LoginService.pdb

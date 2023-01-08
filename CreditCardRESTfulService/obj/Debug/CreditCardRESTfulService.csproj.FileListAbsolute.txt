@@ -1,0 +1,7 @@
+C:\Users\Benpc\source\repos\StockService\CreditCardRESTfulService\bin\CreditCardRESTfulService.dll.config
+C:\Users\Benpc\source\repos\StockService\CreditCardRESTfulService\bin\CreditCardRESTfulService.dll
+C:\Users\Benpc\source\repos\StockService\CreditCardRESTfulService\bin\CreditCardRESTfulService.pdb
+C:\Users\Benpc\source\repos\StockService\CreditCardRESTfulService\obj\Debug\CreditCardRESTfulService.csproj.AssemblyReference.cache
+C:\Users\Benpc\source\repos\StockService\CreditCardRESTfulService\obj\Debug\CreditCardRESTfulService.csproj.CoreCompileInputs.cache
+C:\Users\Benpc\source\repos\StockService\CreditCardRESTfulService\obj\Debug\CreditCardRESTfulService.dll
+C:\Users\Benpc\source\repos\StockService\CreditCardRESTfulService\obj\Debug\CreditCardRESTfulService.pdb

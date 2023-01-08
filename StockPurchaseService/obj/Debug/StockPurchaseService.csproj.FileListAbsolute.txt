@@ -1,0 +1,7 @@
+C:\Users\Benpc\source\repos\Project5\StockPurchaseService\bin\StockPurchaseService.dll.config
+C:\Users\Benpc\source\repos\Project5\StockPurchaseService\bin\StockPurchaseService.dll
+C:\Users\Benpc\source\repos\Project5\StockPurchaseService\bin\StockPurchaseService.pdb
+C:\Users\Benpc\source\repos\Project5\StockPurchaseService\obj\Debug\StockPurchaseService.csproj.AssemblyReference.cache
+C:\Users\Benpc\source\repos\Project5\StockPurchaseService\obj\Debug\StockPurchaseService.csproj.CoreCompileInputs.cache
+C:\Users\Benpc\source\repos\Project5\StockPurchaseService\obj\Debug\StockPurchaseService.dll
+C:\Users\Benpc\source\repos\Project5\StockPurchaseService\obj\Debug\StockPurchaseService.pdb

@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: left;
+            background-color: #CCCCCC;
+        }
+        .auto-style2 {
+            text-align: left;
+            width: 136px;
+            background-color: #CCCCCC;
+        }
+        .auto-style3 {
+            text-align: left;
+            width: 359px;
+            background-color: #CCCCCC;
+        }
+        .auto-style4 {
+            text-align: left;
+            width: 100px;
+            background-color: #CCCCCC;
+        }
+        .auto-style5 {
+            text-align: left;
+            width: 349px;
+            background-color: #CCCCCC;
+        }
+        .auto-style6 {
+            text-align: left;
+            width: 136px;
+            height: 80px;
+            background-color: #CCCCCC;
+        }
+        .auto-style7 {
+            text-align: left;
+            width: 359px;
+            height: 80px;
+            background-color: #CCCCCC;
+        }
+        .auto-style8 {
+            text-align: left;
+            width: 100px;
+            height: 80px;
+            background-color: #CCCCCC;
+        }
+        .auto-style9 {
+            text-align: left;
+            width: 349px;
+            height: 80px;
+            background-color: #CCCCCC;
+        }
+        .auto-style10 {
+            text-align: left;
+            height: 80px;
+            background-color: #CCCCCC;
+        }
+    </style>
+</head>
+<body>
+
+    <table style="width:100%;">
+        <tr>
+            <td class="auto-style1" colspan="5">Assignment5 Home Page: <a href="http://webstrar70.fulton.asu.edu/page6/">http://webstrar70.fulton.asu.edu/page6/</a><br />
+                This page is deployed at: <a href="http://webstrar70.fulton.asu.edu/index.html">http://webstrar70.fulton.asu.edu/index.html </a> </td>
+        </tr>
+        <tr>
+            <td class="auto-style1" colspan="5">This project is developed by: Benjamin Wallace</td>
+        </tr>
+        <tr>
+            <td class="auto-style2">Provider Name:</td>
+            <td class="auto-style3">Service name, with input and output types </td>
+            <td class="auto-style4">TryIt link</td>
+            <td class="auto-style5">Service description</td>
+            <td class="auto-style1">Actual resources used to implement the service</td>
+        </tr>
+        <tr>
+            <td class="auto-style2">Ben Wallace</td>
+            <td class="auto-style3">Credit Card Number verifier<br />
+                int verifyCard(string cardNo);
+                <br />
+&nbsp;cardNo(string) output: 0 if cardNo is valid, -1 if invalid</td>
+            <td class="auto-style4"><a href="http://webstrar70.fulton.asu.edu/page5/">TryIt</a></td>
+            <td class="auto-style5">RESTful service implements Luhn Algorithm to verify credit card no</td>
+            <td class="auto-style1">Luhn Algorithm</td>
+        </tr>
+        <tr>
+            <td class="auto-style6">Ben Wallace</td>
+            <td class="auto-style7">Stock Service<br />
+                getQuote returns price of stock symbol<br />
+                input : string stock symbol<br />
+                output: string price summary</td>
+            <td class="auto-style8">Integrated in application logic</td>
+            <td class="auto-style9">Provides price data and analytics for stocks</td>
+            <td class="auto-style10">YahooFinance api is used to get a price summary of a given stock symbol <a href="https://finance.yahoo.com/">https://finance.yahoo.com/</a></td>
+        </tr>
+        <tr>
+            <td class="auto-style2">Ben Wallace</td>
+            <td class="auto-style3">Login/Sign up Service<br />
+                int signUp(string user, string password, string dateOfBirth); It returns 0 on success -1 if account with username = user already exists on server<br />
+                <br />
+                int signIn(string user, string password);
+                <br />
+&nbsp;returns 0 if it is a valid login, -1 if the username is incorrect, and -2 if the username and password combination is incorrect</td>
+            <td class="auto-style4">Integrated in application logic</td>
+            <td class="auto-style5">signIn searches MemberCredentials.xml on server for an account with matching user and password. It<br />
+                <br />
+                signUp validates user info and saves account to&nbsp; MemberCredentials.xml&nbsp; file if it is valid</td>
+            <td class="auto-style1">N/a</td>
+        </tr>
+        <tr>
+            <td class="auto-style2">Ben Wallace</td>
+            <td class="auto-style3">int purchaseStock(string stockSymbol, string quantity, string cardNo, string user, string password);
+                <br />
+                returns 0 on succes, -1 invalid cardNo, -2 invalid account info</td>
+            <td class="auto-style4">Integrated in application logic</td>
+            <td class="auto-style5">purchaseStock uses stock symbol, quantity, cardNo, and account info (for verification) as input. It verifies the account info, uses my stock service to find the price of stockSymbol and verifies cardNo for purchase using my credit card service. It then saves the order to file on the server. </td>
+            <td class="auto-style1">Uses my Login Service, Credit Card Verifier and stock service to process an order.</td>
+        </tr>
+    </table>
+
+</body>
+</html>

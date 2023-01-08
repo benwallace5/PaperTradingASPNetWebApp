@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order>
+    <Symbol>AMD</Symbol>
+    <Quantity>100</Quantity>
+    <Price>88</Price>
+    <User>Bob</User>
+  </Order>
+  <Order>
+    <Symbol>AMD</Symbol>
+    <Quantity>2</Quantity>
+    <Price>73.67</Price>
+    <User>User</User>
+  </Order>
+  <Order>
+    <Symbol>amd</Symbol>
+    <Quantity>1</Quantity>
+    <Price>73.67</Price>
+    <User>user</User>
+  </Order>
+</Orders>
